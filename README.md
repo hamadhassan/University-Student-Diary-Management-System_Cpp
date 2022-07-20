@@ -1,4 +1,4 @@
-# University student diary management system (USDMS).
+# University student diary management system (USDMS)
 
 
 ## Description:
